@@ -1,0 +1,65 @@
+.header{
+    padding: 20px 15%;
+    background-color: rgb(223, 228, 232);
+}
+.header h1{
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+}
+.header h5{
+    margin-bottom: 0;
+    font-weight: 500;
+    position: relative;
+    top: 10px;
+
+}
+.header h6{
+    letter-spacing: 1px;
+}
+.fuel_header{
+    display: inline-block;
+    width: 50%;
+    padding: 50px 4%;
+}
+.fuel_header h2{
+    font-weight: 700;
+}
+.fuel_station{
+    display: flex;
+}
+
+.fuel_station:hover span{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(92, 92, 202);
+    transition: font-size 0.3s ease-in-out, font-weight 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+.screenshots{
+    display: inline-block;
+    width: 50%;
+    padding: 0 10px;
+    padding-top: 45px;
+}
+.screenshots img{
+    width: 40%;
+    height: auto;
+    margin: 2%;    
+}
+@media screen and (max-width:769px) {
+    .fuel_station{
+        display: block;
+    }
+    .fuel_header{
+        display: block;
+        width: 100%;
+    }
+    .screenshots{
+        display: block;
+        width: 100%;
+        padding-top: 0;
+    }
+     
+}
+

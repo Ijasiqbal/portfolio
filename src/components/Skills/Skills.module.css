@@ -1,0 +1,81 @@
+.base{
+    display: flex;
+}
+.header{
+    padding: 10%;
+    padding-right: 8%;
+    width: 40%;
+}
+.header h4{
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    position: relative;
+    bottom: 10px;
+}
+.header h6{
+    letter-spacing: 0.5px;
+}
+.header span{
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+.header span:hover{
+    background-color: rgba(112, 128, 144, 0.573);
+    transition: background-color 0.3s ease-in-out;
+}
+.skills{
+    display: inline-block;
+    width: 125px;
+    height: 125px;
+    text-align: center;
+    background-color: slategrey;
+    margin: 2%;
+    border-radius: 15px;
+    position: relative;
+    color: rgb(239, 239, 239);
+    transition: padding 0.4s ease-in-out, background-color 0.4s ease-in-out,box-shadow 0.4s ease-in-out; 
+}
+.skills:hover{
+    padding: 10%;
+    background-color: rgb(89, 102, 114);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+    
+}
+.skills h6{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: font-size 0.7s ease-in-out;
+}
+.skills:hover h6 {
+    font-size: 20px;
+}
+.skillset{
+    padding: 10%;
+    margin-top: 50px;
+    width: 65%;
+    padding-right: 5%;
+}
+
+@media screen and (max-width:769px) {
+    .base{
+        display: block;
+    }
+    .header{
+        width: 100%;
+        padding-bottom: 6%;
+    }
+    .skillset{
+        padding-top: 0;
+        width: 100%;
+        margin-top: 0;
+    }
+    .skills{
+        width: 85%;
+        height: 90px;
+    }
+}
