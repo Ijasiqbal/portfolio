@@ -1,5 +1,7 @@
 import Portfolio from './Portfolio';
 import styles from './Projects.module.css'
+import { AiOutlineLink } from 'react-icons/ai';
+
 
 const Projects = () => {
     return ( 
@@ -13,6 +15,10 @@ const Projects = () => {
                 <div className={styles.fuel_header}>
                     <h2>Fuel Station Management website</h2>
                     <p>This is a freelancing work for a fuel station that I have committed to. This website was built with <span>REACT</span> as the frontend and <span>PYTHON</span> as the backend .I utilized the <span>DJANGO</span> and <span>REST framework</span> to to create API endpoints in the backend.I used the built-in django database sqlite3  </p>
+                    <div className={styles.button} onClick={()=>{window.location.href = 'https://ijasiqbal.github.io/petrol-pump/'}}>
+                        <div className={styles.text}>Link</div>
+                        <div className={styles.icon}><AiOutlineLink /></div>
+                    </div>
                 </div>
                 <div className={styles.screenshots}>
                     <img src={require("../../images/website1.png")} alt="screenshot1" />

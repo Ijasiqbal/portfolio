@@ -79,3 +79,7 @@
         height: 90px;
     }
 }
+.zoomIn {
+    animation: zoomIn 1s ease;
+    animation-delay: 1s; /* Add a 1-second delay */
+  }

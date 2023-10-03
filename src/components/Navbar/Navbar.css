@@ -1,6 +1,6 @@
 .navbar{
     display: flex ;
-    padding: 20px 80px!important;
+    padding: 20px 8%!important;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.159);
     color: white;
@@ -37,13 +37,17 @@
 }
 
 @media screen and (max-width: 769px) {
+    .navbar{
+        position: relative!important;
+        background-color: black;
+    }
     .options{
         display: block;
         position: fixed;
         top: 70px;
         right: -300px;
         height: 100vh;
-        width: 300px;
+        width: 250px;
         z-index: 999;
         background-color: black;
         padding: 20px 35px;
@@ -55,7 +59,7 @@
         top: 73px;
         right: 0px;
         height: 100vh;
-        width: 300px;
+        width: 250px;
         z-index: 999;
         background-color: rgba(0, 0, 0, 0.327);
         padding: 20px 35px;
