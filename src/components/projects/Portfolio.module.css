@@ -19,8 +19,7 @@
 .left{
     display: inline-block;
     width: 50%;
-    padding: 0 10px;
-    padding-top: 45px;
+    padding: 45px 5%;
 }
 
 @media screen and (max-width:769px) {

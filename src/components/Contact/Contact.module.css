@@ -1,0 +1,48 @@
+    .base{
+        padding: 3%;
+        padding-bottom: 30px;
+        padding-top: 20px;
+        background-color: slategray;
+        color: rgb(216, 228, 239);
+    }
+    .header{
+        padding-bottom: 20px;
+    }
+    .header h2{
+        display: flex;
+        justify-content: center;
+        font-weight: 700;
+        letter-spacing: 1px;
+    }
+    .button{
+        display: inline-block;
+        padding: 5px 15px;
+        border: 1px solid  rgb(216, 228, 239);
+        margin-right: 3%;
+    }
+    .base span{
+        padding-right: 10px;
+    }
+    .body{
+    }
+    .btns{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 3%;
+        padding-bottom: 20px;
+    }
+    .details{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .email{
+        margin-right: 3%;
+    }
+    .button:hover{
+        background-color: rgb(80, 96, 113);
+        border: 1px solid  rgb(170, 186, 201);
+        color: white;
+
+    }

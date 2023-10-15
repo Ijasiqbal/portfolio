@@ -5,6 +5,7 @@
     background-color: rgba(0, 0, 0, 0.159);
     color: white;
     position: fixed!important;
+    top: 0;
     width: 100%;
     z-index: 999;
     backdrop-filter: blur(5px);;
@@ -38,7 +39,7 @@
 
 @media screen and (max-width: 769px) {
     .navbar{
-        position: relative!important;
+        position: fixed!important;
         background-color: black;
     }
     .options{

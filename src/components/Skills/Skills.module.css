@@ -83,3 +83,6 @@
     animation: zoomIn 1s ease;
     animation-delay: 1s; /* Add a 1-second delay */
   }
+.none{
+    opacity: 0;
+}
