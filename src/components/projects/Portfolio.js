@@ -1,10 +1,12 @@
 import styles from './Portfolio.module.css';
 import { Image } from 'antd';
 
+const imageStyle = {
+  padding: '10px', // Set margin on all sides
+};
+
 const Portfolio = () => {
-  const imageStyle = {
-    padding: '10px', // Set margin on all sides
-  };
+  
 
   return (
     <div className={styles.base}>

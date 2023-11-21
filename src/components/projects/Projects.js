@@ -2,6 +2,8 @@ import Portfolio from './Portfolio';
 import styles from './Projects.module.css';
 import { AiOutlineLink } from 'react-icons/ai';
 import { Image } from 'antd';
+import EmployeeEase from './EmployeeEase';
+import ExcelEase from './ExcelEase';
 
 const imageStyle = {
   padding: '10px', // Set padding on all sides
@@ -46,6 +48,12 @@ const Projects = () => {
       </div>
       <div>
         <Portfolio />
+      </div>
+      <div>
+        <EmployeeEase />
+      </div>
+      <div>
+        <ExcelEase />
       </div>
     </div>
   );
