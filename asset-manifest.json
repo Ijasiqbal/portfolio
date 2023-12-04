@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ea56181a.css",
-    "main.js": "/portfolio/static/js/main.7e99f343.js",
+    "main.js": "/portfolio/static/js/main.55b3b717.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/slide1.jpg": "/portfolio/static/media/slide1.a01d1981dbe801167748.jpg",
     "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.79c3a0d938242f124e6c.png",
@@ -23,6 +23,7 @@
     "static/media/AutoExcel1.png": "/portfolio/static/media/AutoExcel1.987787ccecb25c878dd6.png",
     "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/website1.png": "/portfolio/static/media/website1.b9c47cc97168c762ddaa.png",
+    "static/media/AutoExcel4.png": "/portfolio/static/media/AutoExcel4.17d82ca306a761790103.png",
     "static/media/ExcelEase3.png": "/portfolio/static/media/ExcelEase3.1997bc74d0991e63386f.png",
     "static/media/EmployeeEase2.png": "/portfolio/static/media/EmployeeEase2.3964ce97ddc9ab996821.png",
     "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.8f25c9bc605c8054b266.png",
@@ -35,11 +36,11 @@
     "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/portfolio/index.html",
     "main.ea56181a.css.map": "/portfolio/static/css/main.ea56181a.css.map",
-    "main.7e99f343.js.map": "/portfolio/static/js/main.7e99f343.js.map",
+    "main.55b3b717.js.map": "/portfolio/static/js/main.55b3b717.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea56181a.css",
-    "static/js/main.7e99f343.js"
+    "static/js/main.55b3b717.js"
   ]
 }
