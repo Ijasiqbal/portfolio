@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.725e193b.css",
-    "main.js": "/portfolio/static/js/main.3c20c788.js",
+    "main.css": "/portfolio/static/css/main.ea56181a.css",
+    "main.js": "/portfolio/static/js/main.7e99f343.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/slide1.jpg": "/portfolio/static/media/slide1.a01d1981dbe801167748.jpg",
     "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.79c3a0d938242f124e6c.png",
@@ -20,23 +20,26 @@
     "static/media/ExcelEase2.png": "/portfolio/static/media/ExcelEase2.13efd9ba14b91639c1bf.png",
     "static/media/website4.png": "/portfolio/static/media/website4.fa5201a90a57c5c6f59e.png",
     "static/media/EmployeeEase3.png": "/portfolio/static/media/EmployeeEase3.78cfcadf85c309e2740f.png",
+    "static/media/AutoExcel1.png": "/portfolio/static/media/AutoExcel1.987787ccecb25c878dd6.png",
     "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/website1.png": "/portfolio/static/media/website1.b9c47cc97168c762ddaa.png",
     "static/media/ExcelEase3.png": "/portfolio/static/media/ExcelEase3.1997bc74d0991e63386f.png",
     "static/media/EmployeeEase2.png": "/portfolio/static/media/EmployeeEase2.3964ce97ddc9ab996821.png",
     "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.8f25c9bc605c8054b266.png",
+    "static/media/AutoExcel2.png": "/portfolio/static/media/AutoExcel2.2bdb56a58e59f16b34c0.png",
     "static/media/EmployeeEase1.png": "/portfolio/static/media/EmployeeEase1.9b036e307bfaa9df4d2d.png",
     "static/media/ExcelEase1.png": "/portfolio/static/media/ExcelEase1.f9680cc5cdfd762bc4f5.png",
     "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/AutoExcel3.png": "/portfolio/static/media/AutoExcel3.7bc7ee3d416d3633686d.png",
     "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/portfolio/index.html",
-    "main.725e193b.css.map": "/portfolio/static/css/main.725e193b.css.map",
-    "main.3c20c788.js.map": "/portfolio/static/js/main.3c20c788.js.map",
+    "main.ea56181a.css.map": "/portfolio/static/css/main.ea56181a.css.map",
+    "main.7e99f343.js.map": "/portfolio/static/js/main.7e99f343.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.725e193b.css",
-    "static/js/main.3c20c788.js"
+    "static/css/main.ea56181a.css",
+    "static/js/main.7e99f343.js"
   ]
 }
